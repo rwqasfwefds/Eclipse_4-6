@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package hello;
+
+/**
+ * @author ds
+ * 클래스 명 : HelloWorld
+ * 설명 : 기본으로 HelloWorld를 찍는 클래스
+ */
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello");
+		System.out.println("World");
+	}
+
+}
